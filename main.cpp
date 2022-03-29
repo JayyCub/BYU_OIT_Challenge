@@ -10,9 +10,6 @@
 #include <iostream>
 #include <map>
 #include <string>
-#include <locale>
-#include <algorithm>
-#include <vector>
 using namespace std;
 
 void programInit();
